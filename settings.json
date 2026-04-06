@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "FlynxSMP.aternos.me",
+    "port": 13749,
     "version": "",
     "try-creative": false
   },
