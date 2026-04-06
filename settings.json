@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Mr.Unitrix",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "FlynxSMP.aternos.me",
     "port": 13749,
-    "version": "1.21.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
